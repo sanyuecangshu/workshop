@@ -1,3 +1,3 @@
 # 07
-![git config result](PR.png)
-![git config result](merge.png)
+![git config result](PR2.png)
+![git config result](merge3.png)
