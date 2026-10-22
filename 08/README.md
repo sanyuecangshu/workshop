@@ -1,10 +1,12 @@
 # 08
 ## git log --oneline
 ```bash
-d5c9bc7 (HEAD -> main, origin/main) update task07 README
-7a2a1b7 Update task 07 README
-973e66b Merge pull request #2 from sanyuecangshu/develop
+febef76 (HEAD -> main) update 08
+d5c9bc7 (origin/main) update task07 README
 ```
 
 ## git diff
 A new update
+Another update
+
+![git config result](diff.png)
