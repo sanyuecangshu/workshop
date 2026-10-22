@@ -1,4 +1,5 @@
-# test
+# command history
+```bash
 git init
 echo "# test" > README.md
 git add README.md
